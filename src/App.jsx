@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/vivek-mittal-379a97249",
   medium: "",
   twitter: "",
-  youTube: "",
+  youTube: "www.youtube.com/@VivekMittal-yv4ry",
 };
 
 const primaryColor = "#4E567E";

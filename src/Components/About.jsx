@@ -24,7 +24,7 @@ const imageAltText = "Beautiful working place background ";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Passionate Web Developer and nthusiastically motivated to provide valuable contributions and actively participate in the operations of an organization.";
+  "I'm a Passionate Web Developer and enthusiastically motivated to provide valuable contributions and actively participate in the operations of an organization.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
